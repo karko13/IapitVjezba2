@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\IspitVjezba2\bin\Debug\IspitVjezba2.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\IspitVjezba2\bin\Debug\IspitVjezba2.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\IspitVjezba2\bin\Debug\IspitVjezba2.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\IspitVjezba2\obj\Debug\IspitVjezba2.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\IspitVjezba2\obj\Debug\IspitVjezba2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\IspitVjezba2\obj\Debug\IspitVjezba2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\IspitVjezba2\obj\Debug\IspitVjezba2.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\IspitVjezba2\obj\Debug\IspitVjezba2.pdb
